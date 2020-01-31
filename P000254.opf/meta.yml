@@ -1,0 +1,43 @@
+ebook_metadata:
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  authors:
+  - མཛད་པ་པོ། ཤཱཀྱ་མཆོག་ལྡན་དྲི་མེད་ལེགས་པའི་བློ་གྲོས།
+  sku: RDI-SS-07
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: An Ocean of Scriptural Intent:A Commentary on “The Ornament of Clear Realization”
+      of the Prajnaparamita
+    bo: མངོན་རྟོགས་རྒྱན་གྱི་འགྲེལ་བ་ལུང་དོན་རྒྱ་མཚོ།
+  collection:
+    en: ''
+    bo: ཐོས་བསམ་འཆད་ཉན་གྱི་རིམ་པ།–  དེབ། ༧
+  author:
+    en: Shakya Chogden Drime Legpai Lodro
+    bo: ཤཱཀྱ་མཆོག་ལྡན་དྲི་མེད་ལེགས་པའི་བློ་གྲོས།
+  pusblisher:
+    en: Rigpe Dorje Institute
+    bo: རིག་པའི་རྡོ་རྗེ་གཙུག་ལག་སློབ་ཉེར་ཁང་།
+  sku: RDI-SS-07
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: RDI-SS-07.epub
+  description:
+    en: ༄༅། །བསྟན་བཅོས་འདི་ཉིད་ཀྱི་བརྗོད་བྱའི་གཙོ་བོ་ཡུམ་གྱི་ལུས་དངོས་པོ་བརྒྱད་དང་།
+      ཡན་ལག་དོན་བདུན་ཅུར་གྲགས་པ་དང་། དེ་དག་གི་ཉིང་ལག་སོ་སོའི་མཚན་ཉིད་དང་། རབ་ཏུ་དབྱེ་བ་དང་།
+      ས་མཚམས་དང་བཅས་པ་རགས་པ་ཙམ་ཞིག་ཡིན་ནོ། །
+    bo: ༄༅། །བསྟན་བཅོས་འདི་ཉིད་ཀྱི་བརྗོད་བྱའི་གཙོ་བོ་ཡུམ་གྱི་ལུས་དངོས་པོ་བརྒྱད་དང་།
+      ཡན་ལག་དོན་བདུན་ཅུར་གྲགས་པ་དང་། དེ་དག་གི་ཉིང་ལག་སོ་སོའི་མཚན་ཉིད་དང་། རབ་ཏུ་དབྱེ་བ་དང་།
+      ས་མཚམས་དང་བཅས་པ་རགས་པ་ཙམ་ཞིག་ཡིན་ནོ། །
