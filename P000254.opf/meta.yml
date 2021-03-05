@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000254
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། ཤཱཀྱ་མཆོག་ལྡན་དྲི་མེད་ལེགས་པའི་བློ་གྲོས།
-  sku: RDI-SS-07
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-07
 web_metadata:
   title:
     en: An Ocean of Scriptural Intent:A Commentary on “The Ornament of Clear Realization”
